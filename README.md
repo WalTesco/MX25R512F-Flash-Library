@@ -4,3 +4,6 @@ In the fututure extended support will be implemented using the AUX pin as an I/O
 Extended support will allow for enhanced functionality such as dual read/write mode.
 The functions included are low-level hardware functions and do not perform bounds checking, error checking, etc.
 A high level library is forthcoming as well as well as GDK GUI app for flashing and backing up the ROM.
+
+Data Sheet For MX25R512F:
+http://pdf1.alldatasheet.com/datasheet-pdf/view/694006/MCNIX/MX25R512F/+4J4Q28VKCMpZcPbNCZDvwP+/datasheet.pdf
